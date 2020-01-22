@@ -1,0 +1,28 @@
+ body {
+   height: 100%;
+   margin: 0;
+   background: url("TIME.jpg") no-repeat center;
+   background-color: white;
+   color: black;
+   background-position: fixed;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+  
+
+  div {
+   line-height: 100vh;
+   text-align: center;
+   font-size: 50px;
+   font-family: arial;
+   margin-bottom: -50px;
+   margin-right: 850px;
+  }
+
+  span {
+   font-weight: bold;
+   font-family: monospace;
+  }
